@@ -1,0 +1,21 @@
+html, body{
+	font-family: Arial;
+}
+.add-to-database .btn.btn-primary{
+	margin: 250px 50px 0px 650px;
+	font-size: 25px;
+	font-weight: bold;
+}
+.add-to-database a{
+	color: #fff;
+}
+.table .btn {
+	margin-left: 10px;
+}
+.table .btn a{
+	color: #fff;
+}
+
+.register form{
+	max-width: 400px;
+}
